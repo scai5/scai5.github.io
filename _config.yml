@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "cai-shirley-2022.jpg"
   name             : "Shirley Cai"
-  pronouns         : "she/her, they/them"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "they/them, she/her"  
+  bio              : "PhD Candidate"
   location         : "Atlanta, GA"
   employer         : "Emory University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-6018-9009"
+  orcid            : #"https://orcid.org/0009-0004-6018-9009"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  working:
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
