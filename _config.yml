@@ -86,10 +86,12 @@ author:
 publication_category:
   jobmarketpaper:
     title: 'Job Market Paper'
-  working:
-    title: 'Working Papers'
   manuscripts:
     title: 'Journal Articles'
+  working:
+    title: 'Working Papers'
+  progress:
+    title: 'Works in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

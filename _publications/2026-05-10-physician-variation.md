@@ -3,7 +3,7 @@ title: "Medical School Environments and Physician Treatment Styles"
 collection: publications
 category: jobmarketpaper
 permalink: /publication/physician-variation
-authors: Ian McCarthy and <b>Shirley Cai</b>
+authors: <b>Shirley Cai</b> and Ian McCarthy
 excerpt: 'We examine the role of medical school environments in shaping physicians’ later treatment decisions, focusing on a specific subset of cardiology in which physician discretion is particularly salient and separate from patient need.'
 date: 2026-05-10
 venue:
