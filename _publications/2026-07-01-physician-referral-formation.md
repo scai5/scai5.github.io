@@ -2,7 +2,7 @@
 title: "Formation of Physician Referral Networks: Drivers and Potential Consequences"
 collection: publications
 category: working
-permalink: /publication/physician-variation
+permalink: /publication/physician-referral-formation
 authors: Ian McCarthy, <b>Shirley Cai</b>, Pablo Estrada, and Jillian Wilkins
 excerpt: 'Focusing on PCPs who enter or relocate to a new market, we study the determinants of initial PCP–specialist networks using the universe of 2010–2018 Medicare fee-for-service claims across three distinct specialty areas: orthopedic surgery, cardiology, and dermatology. A network-formation model with two-sided fixed effects shows that sharing a common practice is the dominant factor in forming initial referral links across all three specialties, followed by geographic proximity and relatively minor effects from homophily across various demographic characteristics.'
 date: 2026-07-01
