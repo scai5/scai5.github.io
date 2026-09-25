@@ -4,7 +4,7 @@ collection: publications
 category: progress
 permalink: /publication/physician-location-sop
 authors: Shirley Cai
-excerpt: 'This study seeks to disentangle these two pathways by examining PCP location response to SOP expansion using a difference-in-differences design, leveraging staggered state adoption of SOP laws. I find that neither aggregate PCP location nor new PCP location responds to expanded SOP. However, PCPs and new PCPs increase in counties with high pre-period APRN presence, suggesting that APRNs and PCPs are complements in these markets. Overall, I find little evidence that SOP expansion induces physicians to leave markets due to ARPN competition. Instead, expanded SOP appears to allow APRNs to provide primary care without crowding out incumbent PCPs.'
+excerpt: 'This study seeks to understand whether existing primary care provider supply responds to expansion of nurse scope of practice (SOP), which allows advanced practice registered nurses (APRNs) to practice independently. Leveraging staggered state adoption of such policies, I find that neither aggregate primary care physician (PCP) location nor newly practicing PCP flows respond. Results show little evidence that SOP expansion induces physicians to leave markets due to increased competition; instead, it appears to allow APRNs to provide primary care without crowding out incumbent PCPs.'
 date: 2026-08-03
 venue:
 slidesurl:

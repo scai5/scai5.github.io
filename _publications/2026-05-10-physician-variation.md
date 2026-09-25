@@ -4,11 +4,11 @@ collection: publications
 category: jobmarketpaper
 permalink: /publication/physician-variation
 authors: <b>Shirley Cai</b> and Ian McCarthy
-excerpt: 'We examine the role of medical school environments in shaping physicians’ later treatment decisions, focusing on a specific subset of cardiology in which physician discretion is particularly salient and separate from patient need.'
+excerpt: 'This paper studies the impact of medical school on treatment decisions where cardiologists have considerable discretion: the usage of cardiac catheterization in partial-blockage heart attack cases. Using a mover design, we find that a 10 percentage-point increase in cath lab exposure during training increases later catheterization usage by 0.58 percentage points. This effect is not mediated by medical school rank and, together with peer effects, compounds into a 1.5 long-run multiplier on per-cardiologist cath rates.'
 date: 2026-05-10
 venue:
 slidesurl:
-paperurl:
+paperurl: /files/physician_variation.pdf
 bibtexurl:
 citation:
 ---

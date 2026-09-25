@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/nursing-home-staffing-quality
 authors: Karen Eggleston, Toshiaki Iizuka, Yong Suk Lee, <b>Shirley Cai</b>, Rosina Lin, and Carter Nakamoto
 excerpt: 'Analyzing survey data from more than 1000 Japanese nursing homes, we find that an increase in more full-time equivalent direct-care staff per resident is associated with fewer pressure ulcers.'
-date: 2026-08-03
-venue:
+date: 2026-09-03
+venue: Aging and Health Research
 slidesurl:
 paperurl: https://doi.org/10.1016/j.ahr.2026.100291
 bibtexurl:
